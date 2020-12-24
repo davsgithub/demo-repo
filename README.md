@@ -1,4 +1,5 @@
 #Demo
 Some description.
-Now I am adding a second line
+
+Now I deleted the second line and I will leave only this third line
 
